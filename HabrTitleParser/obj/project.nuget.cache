@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9cXtDoj8NWtkDfNXjho2nv9ZouxULNtVS1I64mhtBG3cro+Pa4n5GVmIygQh2DeXgdWtK2i8fHmrKs1cQQhKGA==",
+  "dgSpecHash": "3guGUYwtv2SEXibG2xp4gYBq1ZMeIWmeA5aV/vqdxUCVgXFVNN49zuV96c3VhkP2BlnajCborwPQqGq/U9ni9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Дмитрий\\source\\repos\\HabrTitleParser\\HabrTitleParser\\HabrTitleParser.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
     "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
   ],
